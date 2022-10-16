@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9dbf937-753a-4b61-8a54-0aa79c3423fd" name="Changes" comment="Birinci hafta tamamlandı">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/Customer/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/Customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/Customer/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/Service/RentACarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/homework2/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/homework2/Hatckback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/homework2/RentACarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/homework2/SUV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kodluyoruz2/src/homework2/Sedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kodluyoruz2/Kodluyoruz2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kodluyoruz2/Kodluyoruz2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -109,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663934170672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ikinci hafta tamamlandı">
+      <created>1665955740363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665955740363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Birinci hafta tamamlandı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Birinci hafta tamamlandı" />
+    <MESSAGE value="Ikinci hafta tamamlandı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ikinci hafta tamamlandı" />
   </component>
 </project>
